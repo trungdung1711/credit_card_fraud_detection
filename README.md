@@ -8,15 +8,15 @@ Research on the dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardf
 
 Clone the repository:
 
-````bash
+```bash
 
-```git clone https://github.com/trungdung1711/credit_card_fraud_detection.git
+git clone https://github.com/trungdung1711/credit_card_fraud_detection.git
 
-````
+```
 
 ## Download the dataset
 
-````bash
-```cd ./credit_card_fraud_detection/scripts
-```./download.sh
-````
+```bash
+cd ./credit_card_fraud_detection/scripts
+./download.sh
+```
